@@ -1,0 +1,29 @@
+{
+    "example1.py|idio|test" : {
+        "expects" : "@example1.test1.txt",
+        "comment" : "Validate line anchor numbers work with basic idio."
+    },
+    "example1.py|idio|al-linenos|test" : {
+        "expects" : "@example1.test2.txt",
+        "comment" : "Validate line anchor numbers work with idio with line numbers.",
+        "idio" : {
+            "formatter" : {
+                "linenos" : true
+            }
+        }
+    },
+    "example1.py|idio|al-anchorlinenos|test" : {
+        "expects" : "@example1.test3.txt",
+        "comment" : "Validate line anchor numbers work with idio with line numbers and anchor links.",
+        "idio" : {
+            "formatter" : {
+                "linenos" : true,
+                "anchorlinenos" : true
+            }
+        }
+    },
+    "example1.py|pyg|test" : {
+        "expects" : "@example1.test4.txt",
+        "comment" : "Validate line anchor numbers work with basic pyg."
+    }
+}

@@ -1,0 +1,8 @@
+<div class="highlight"><pre><a name="example1.py|pyg-1"></a><span class="n">x</span> <span class="o">=</span> <span class="mi">5</span>
+<a name="example1.py|pyg-2"></a>
+<a name="example1.py|pyg-3"></a><span class="c">### @export &quot;set-y&quot;</span>
+<a name="example1.py|pyg-4"></a><span class="n">y</span> <span class="o">=</span> <span class="mi">7</span>
+<a name="example1.py|pyg-5"></a>
+<a name="example1.py|pyg-6"></a><span class="c">### @export &quot;multiply&quot;</span>
+<a name="example1.py|pyg-7"></a><span class="n">x</span> <span class="o">*</span> <span class="n">y</span>
+</pre></div>
