@@ -3,7 +3,7 @@
         "expects" : "@example1.test1.txt",
         "comment" : "Validate line anchor numbers work with basic idio."
     },
-    "example1.py|idio|al-linenos|test" : {
+    "example1.py|idio|-with-linenos|test" : {
         "expects" : "@example1.test2.txt",
         "comment" : "Validate line anchor numbers work with idio with line numbers.",
         "idio" : {
@@ -12,7 +12,7 @@
             }
         }
     },
-    "example1.py|idio|al-anchorlinenos|test" : {
+    "example1.py|idio|-with-anchorlinenos|test" : {
         "expects" : "@example1.test3.txt",
         "comment" : "Validate line anchor numbers work with idio with line numbers and anchor links.",
         "idio" : {

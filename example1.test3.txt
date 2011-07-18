@@ -1,7 +1,7 @@
-<table class="highlighttable"><tr><td class="linenos"><div class="linenodiv"><pre><a href="#example1.py|idio-1">1</a></pre></div></td><td class="code"><div class="highlight"><pre><a name="example1.py|idio-1"></a><span class="n">x</span> <span class="o">=</span> <span class="mi">5</span>
+<table class="highlighttable"><tr><td class="linenos"><div class="linenodiv"><pre><a href="#example1.py|idio|-with-anchorlinenos|test-1">1</a></pre></div></td><td class="code"><div class="highlight"><pre><a name="example1.py|idio|-with-anchorlinenos|test-1"></a><span class="n">x</span> <span class="o">=</span> <span class="mi">5</span>
 </pre></div>
-</td></tr></table><table class="highlighttable"><tr><td class="linenos"><div class="linenodiv"><pre><a href="#example1.py|idio-4">4</a></pre></div></td><td class="code"><div class="highlight"><pre><a name="example1.py|idio-4"></a><span class="n">y</span> <span class="o">=</span> <span class="mi">7</span>
+</td></tr></table><table class="highlighttable"><tr><td class="linenos"><div class="linenodiv"><pre><a href="#example1.py|idio|-with-anchorlinenos|test-4">4</a></pre></div></td><td class="code"><div class="highlight"><pre><a name="example1.py|idio|-with-anchorlinenos|test-4"></a><span class="n">y</span> <span class="o">=</span> <span class="mi">7</span>
 </pre></div>
-</td></tr></table><table class="highlighttable"><tr><td class="linenos"><div class="linenodiv"><pre><a href="#example1.py|idio-7">7</a></pre></div></td><td class="code"><div class="highlight"><pre><a name="example1.py|idio-7"></a><span class="n">x</span> <span class="o">*</span> <span class="n">y</span>
+</td></tr></table><table class="highlighttable"><tr><td class="linenos"><div class="linenodiv"><pre><a href="#example1.py|idio|-with-anchorlinenos|test-7">7</a></pre></div></td><td class="code"><div class="highlight"><pre><a name="example1.py|idio|-with-anchorlinenos|test-7"></a><span class="n">x</span> <span class="o">*</span> <span class="n">y</span>
 </pre></div>
 </td></tr></table>
