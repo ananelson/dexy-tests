@@ -1,6 +1,6 @@
 <div class="highlight"><pre><a name="example1.py|idio|test-1"></a><span class="n">x</span> <span class="o">=</span> <span class="mi">5</span>
 </pre></div>
-<div class="highlight"><pre><a name="example1.py|idio|test-4"></a><span class="n">y</span> <span class="o">=</span> <span class="mi">7</span>
+<div class="highlight"><pre><a name="example1.py|idio|test-1"></a><span class="n">y</span> <span class="o">=</span> <span class="mi">7</span>
 </pre></div>
-<div class="highlight"><pre><a name="example1.py|idio|test-7"></a><span class="n">x</span> <span class="o">*</span> <span class="n">y</span>
+<div class="highlight"><pre><a name="example1.py|idio|test-1"></a><span class="n">x</span> <span class="o">*</span> <span class="n">y</span>
 </pre></div>

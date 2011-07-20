@@ -1,0 +1,4 @@
+{
+    "*.mds|jinja" : { "allinputs" : true},
+    "*.sh|dexy" : {}
+}

@@ -1,0 +1,9 @@
+{{ WARN_AUTOGEN }}
+
+This dexy-tests repo runs tests for Dexy filters using the Dexy 'test' filter.
+
+To run tests:
+
+```bash
+{{ d['run-tests.sh|dexy'] }}
+```
