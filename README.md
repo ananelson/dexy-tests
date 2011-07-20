@@ -8,3 +8,11 @@ To run tests:
 dexy -g "*.dexy"
 
 ```
+
+To generate this README from source:
+
+```bash
+rm README.md # InSituReporter refuses to overwrite
+dexy --use-reporter InSituReporter
+
+```

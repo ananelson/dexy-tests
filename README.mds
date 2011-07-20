@@ -7,3 +7,10 @@ To run tests:
 ```bash
 {{ d['run-tests.sh|dexy'] }}
 ```
+
+To generate this README from source:
+
+```bash
+{{ d['run-readme.sh|dexy'] }}
+```
+
